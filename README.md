@@ -12,14 +12,11 @@ No code. No dependencies. Just drop an agent into your workflow and go.
 
 ## Agents
 
-| Agent | Icon | Description |
-|-------|:----:|-------------|
-| [Iterative Code Fix Agent](agents/iterative-code-fix-agent.md) | 🔧 | Resolves issues in a codebase through an iterative fix-verify loop. Never applies a change without your approval first. |
-| [Breaking Code Change Reviewer](agents/breaking-change-reviewer.md) | ⚠️ | Reviews code changes and flags anything that could break existing functionality or consumers. |
+Browse the [`Agents/`](Agents/) folder to see all available agents.
 
 ## How to Use
 
-1. Browse the [`agents/`](agents/) folder
+1. Browse the [`Agents/`](Agents/) folder
 2. Pick the agent you need
 3. Copy the contents and use it as a system prompt or custom command with your preferred AI tool
 
