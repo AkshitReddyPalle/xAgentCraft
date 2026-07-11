@@ -50,8 +50,8 @@ Agents/
 - Command file: **`Command.md`** — always capitalized
 ## Versioning
  
-- Start with `v1`
-- Create a new version folder (`v2`, `v3`) when there are major changes to the agent's behavior, output format, or scope
+- Start with `V1`
+- Create a new version folder (`V2`, `V3`) when there are major changes to the agent's behavior, output format, or scope
 - Small fixes and wording improvements can be updated within the same version
 ## What Makes a Good Agent
  
