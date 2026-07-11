@@ -40,13 +40,13 @@ Not every agent needs every section. Some agents might need additional sections 
  
 ```
 Agents/
-├── your-agent-name/
-│   └── v1/
+├── Your-Agent-Name/
+│   └── V1/
 │       └── Command.md
 ```
  
-- Agent folder name: **lowercase, kebab-case** (e.g. `pr-summarizer`, `breaking-code-change-reviewer`)
-- Version folder: **lowercase** (e.g. `v1`, `v2`)
+- Agent folder name: **capitalized kebab-case** (e.g. `PR-Summarizer`, `Breaking-Code-Change-Reviewer`)
+- Version folder: **uppercase** (e.g. `V1`, `V2`)
 - Command file: **`Command.md`** — always capitalized
 ## Versioning
  
