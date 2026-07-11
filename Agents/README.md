@@ -7,3 +7,4 @@
 | [PR Summarizer](PR-Summarizer/V1/Command.md) | 📋 | Reads a code diff and generates a clear, structured PR description covering what changed, why, and the result. | V1 |
 | [Code Explainer](Code-Explainer/V1/Command.md) | 📖 | Takes code and explains it line by line in clear, plain language that both technical and non-technical readers can understand. | V1 |
 | [Codebase Explorer](Codebase-Explorer/V1/Command.md) | 🧭 | Explores and explains an entire codebase — its structure, key files, dependencies, and how everything connects. | V1 |
+| [Error Decoder](Error-Decoder/V1/Command.md) | 🧩 | Takes an error message or stack trace and explains what went wrong, why it happened, and where to look to fix it. | V1 |
