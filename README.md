@@ -24,7 +24,7 @@ That's it.
 
 ## Contributing
 
-Want to add your own agent? Follow the format — frontmatter at the top, clear behavior rules, and a structured output format. Open a PR.
+Got an agent idea? We'd love to see it. Check out the [Contributing Guide](CONTRIBUTING.md) for the format, folder structure, and how to submit. Open a PR and we'll take it from there. Every contribution makes xAgentCraft better — thank you for being part of it.
 
 <div align="center">
 
